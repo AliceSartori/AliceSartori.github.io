@@ -10,3 +10,5 @@ In building this dashboard, we'll create individual pages for each plot and a me
 We'll also have a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
 ## Added challenge: used a different dataset
+
+Deployed on AliceSartori.github.io
